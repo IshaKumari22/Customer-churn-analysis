@@ -12,7 +12,7 @@ Telco Customer Churn (Kaggle)
 ## Key Insights
 - Customers with month-to-month contracts churn the most
 - Senior citizens have a higher churn rate
-- 
+ 
 ## 📊 Example Charts
 
 ### Churn Distribution
