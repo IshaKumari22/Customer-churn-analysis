@@ -16,4 +16,4 @@ Telco Customer Churn (Kaggle)
 ## 📊 Example Charts
 
 ### Churn Distribution
-![Churn Chart](screenshots/visualize_churn.png)
+![Churn Chart](visualize_churn.png)
